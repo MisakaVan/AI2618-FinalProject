@@ -1,3 +1,1 @@
-# CS2618-FinalProject
-
-sleeping...
+# AI2618 电子电路系统实验：智能元件参数测量仪
